@@ -1,6 +1,6 @@
 # EEG-Pic-Detection
 
-Université Paris Cité - 2022 - Data Science 
+Université Paris Cité - Data Science 
 Enseignant : Themis Palpanas 
 
 ## Description : 
